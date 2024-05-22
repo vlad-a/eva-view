@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "BeaufortforLOLBold";
+  src: url("fonts/BeaufortforLOLBold.eot");
+  src: url("fonts/BeaufortforLOLBold.eot") format("embedded-opentype"),
+    url("fonts/BeaufortforLOLBold.woff2") format("woff2"),
+    url("fonts/BeaufortforLOLBold.woff") format("woff"),
+    url("fonts/BeaufortforLOLBold.ttf") format("truetype"),
+    url("fonts/BeaufortforLOLBold.svg#BeaufortforLOLBold") format("svg");
+}
